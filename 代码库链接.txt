@@ -1,0 +1,35 @@
+CorrNet: Implementation of Correlational Neural Networks using tensorflow  
+https://github.com/Deermini/CorrNet
+
+Cooperative-Training: Experiment Code for Paper ``CoT: Cooperative Training for Generative Modeling''  
+https://github.com/Deermini/Cooperative-Training
+
+Tensorflow-ACGAN-Anime-Generation: Tensorflow implementation of "Towards the Automatic Anime Characters Creation with Generative Adversarial Networks"  
+https://github.com/Deermini/Tensorflow-ACGAN-Anime-Generation
+
+StackGAN-v2  
+https://github.com/Deermini/StackGAN-v2
+
+resnet-in-tensorflow: Re-implement Kaiming He's deep residual networks in tensorflow. Can be trained with cifar10.  
+https://github.com/Deermini/resnet-in-tensorflow
+
+really-awesome-gan: A list of papers on Generative Adversarial (Neural) Networks  
+https://github.com/Deermini/really-awesome-gan
+
+text2image-benchmark: Performance comparison of existing GAN based Text To Image algorithms. (GAN-CLS, StackGAN, TAC-GAN)  
+https://github.com/Deermini/text2image-benchmark
+
+BEGAN-tensorflow: Tensorflow implementation of "BEGAN: Boundary Equilibrium Generative Adversarial Networks"  
+https://github.com/Deermini/BEGAN-tensorflow
+
+StackGAN  
+https://github.com/Deermini/StackGAN
+
+CycleGAN-TensorFlow: An implementation of CycleGan using TensorFlow  
+https://github.com/Deermini/CycleGAN-TensorFlow
+
+GAN: Resources and Implementations of Generative Adversarial Nets: GAN, DCGAN, WGAN, CGAN, InfoGAN  
+https://github.com/Deermini/GAN
+
+vaegan: Implementation of "Autoencoding beyond pixels using a learned similarity metric" [arXiv:1512.09300]  
+https://github.com/Deermini/vaegan
