@@ -1,0 +1,15 @@
+3、生成对抗网络
+seqGAN代码：
+ericrincon/SeqGAN: Implementation of SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient https://arxiv.org/pdf/1609.05473v5.pdf https://github.com/ericrincon/SeqGAN
+CGAN之deepcolor实践：https://zhuanlan.zhihu.com/p/25709644
+YadiraF/GAN: Resources and Implementations of Generative Adversarial Nets: GAN, DCGAN, WGAN, CGAN, InfoGAN https://github.com/YadiraF/GAN
+各种GANs的版本：https://github.com/hwalsuklee/tensorflow-generative-model-collections
+text2image-benchmark/algorithms/GAN-CLS at master · nashory/text2image-benchmark
+https://github.com/nashory/text2image-benchmark/tree/master/algorithms/GAN-CLS
+"Improved Training of Wasserstein GANs":
+https://github.com/igul222/improved_wgan_training
+VAE:https://github.com/wiseodd/generative-models/blob/master/VAE/vanilla_vae/vae_tensorflow.py
+generate MNIST using a Variational Autoencoder https://github.com/kvfrans/variational-autoencoder
+4、RNN,LSTM的理解
+TensorFlow入门（五）多层 LSTM 通俗易懂版 - 人工智能开发框架知识库 http://lib.csdn.net/article/aiframework/61965
+[译] 理解 LSTM 网络 - 简书 http://www.jianshu.com/p/9dc9f41f0b29

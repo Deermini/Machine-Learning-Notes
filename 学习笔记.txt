@@ -1,0 +1,88 @@
+谷歌学术镜像_Google学术搜索导航 http://ac.scmor.com/#userconsent#
+Windows下安装Ubuntu 16.04双系统 - duan22677 - 博客园 http://www.cnblogs.com/Duane/p/5424218.html
+
+1、为什么会出现梯度消失和梯度爆炸的问题，以及LSTM是如何防止的
+神经网络梯度消失的解释 - HYQ的博客 - CSDN博客 http://m.blog.csdn.net/baidu_29782299/article/details/52742773
+(10 条消息)bp算法中为什么会产生梯度消失？ - 知乎 https://www.zhihu.com/question/49812013
+
+2、利用CNN，RNN进行文本分类 （tensorflow实现）
+基于tensorflow的cnn文本分类 - u013713117的专栏 - CSDN博客 
+http://blog.csdn.net/u013713117/article/details/55049808
+
+cnn-text-classification-tf/text_cnn.py at master • dennybritz/cnn-text-classification-tf 
+https://github.com/dennybritz/cnn-text-classification-tf/blob/master/text_cnn.py
+
+brightmart/text_classification: all kinds of text classificaiton models and more with deep learning https://github.com/brightmart/text_classification
+
+ilivans/tf-rnn-attention: Tensorflow implementation of attention mechanism for text classification tasks.  https://github.com/ilivans/tf-rnn-attention
+
+3、生成对抗网络
+seqGAN代码：
+ericrincon/SeqGAN: Implementation of SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient https://arxiv.org/pdf/1609.05473v5.pdf https://github.com/ericrincon/SeqGAN
+
+CGAN之deepcolor实践：https://zhuanlan.zhihu.com/p/25709644
+YadiraF/GAN: Resources and Implementations of Generative Adversarial Nets: GAN, DCGAN, WGAN, CGAN, InfoGAN https://github.com/YadiraF/GAN
+
+各种GANs的版本：https://github.com/hwalsuklee/tensorflow-generative-model-collections
+
+text2image-benchmark/algorithms/GAN-CLS at master · nashory/text2image-benchmark  
+https://github.com/nashory/text2image-benchmark/tree/master/algorithms/GAN-CLS
+
+"Improved Training of Wasserstein GANs":
+https://github.com/igul222/improved_wgan_training
+
+VAE:https://github.com/wiseodd/generative-models/blob/master/VAE/vanilla_vae/vae_tensorflow.py
+generate MNIST using a Variational Autoencoder https://github.com/kvfrans/variational-autoencoder
+
+4、RNN,LSTM的理解
+TensorFlow入门（五）多层 LSTM 通俗易懂版 - 人工智能开发框架知识库 http://lib.csdn.net/article/aiframework/61965
+[译] 理解 LSTM 网络 - 简书 http://www.jianshu.com/p/9dc9f41f0b29
+
+5、中文古诗自动作诗机器人
+jinfagang/tensorflow_poems: 中文古诗自动作诗机器人，屌炸天，基于tensorflow1.0 api，加入了创作歌词模块！！正在积极维护升级中，快star，保持更新！ 
+https://github.com/jinfagang/tensorflow_poems
+
+6、char RNN
+github上虽然已经有实现好的Char RNN  
+http://www.cnblogs.com/chenergougou/p/6898658.html
+
+character-RNN模型介绍以及代码解析 - edwardbi - 博客园  
+http://www.cnblogs.com/edwardbi/p/5573951.html
+
+GitHub - sherjilozair/char-rnn-tensorflow: Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow  
+https://github.com/sherjilozair/char-rnn-tensorflow
+
+7.xgboost
+xgboost/sklearn_examples.py at master • dmlc/xgboost https://github.com/dmlc/xgboost/blob/master/demo/guide-python/sklearn_examples.py
+
+8、熵，相对熵、交叉熵及KL散度
+如何通俗的解释交叉熵与相对熵? - 知乎 https://www.zhihu.com/question/41252833
+
+9、BP反向传播算法
+如何直观地解释 back propagation 算法？ - 知乎 https://www.zhihu.com/question/27239198?rf=24827633
+Implementing Multiple Layer Neural Network from Scratch 
+https://github.com/pangolulu/neural-network-from-scratch#implementing-multiple-layer-neural-network-from-scratch
+
+10.语义分析的一些方法,语义分析的一些方法(一) | 火光摇曳 http://www.flickering.cn/ads/2015/02/%E8%AF%AD%E4%B9%89%E5%88%86%E6%9E%90%E7%9A%84%E4%B8%80%E4%BA%9B%E6%96%B9%E6%B3%95%E4%B8%80/
+
+11、Tensorflow 自动文摘: 基于Seq2Seq+Attention模型的Textsum模型 - 凌风探梅的专栏 - CSDN博客 http://blog.csdn.net/Real_Myth/article/details/69569169
+
+12、实战 | 让机器人替你聊天，还不被人看出破绽？来，手把手教你训练一个克隆版的你 - 知乎专栏 
+https://zhuanlan.zhihu.com/p/28760717?utm_source=qq&utm_medium=social
+
+13、文本分类RNN-ttention：ementation of attention mechanism for text classification tasks. 
+https://github.com/ilivans/tf-rnn-attention
+
+14、tensorflow项目练习（非常好的一个网站）
+http://blog.topspeedsnail.com/archives/10443
+
+15、当深度学习遇见自动文本摘要 - 腾云阁 - 腾讯云 
+https://www.qcloud.com/community/article/889655
+
+16、文本自动摘要 - CSDN博客 
+http://blog.csdn.net/lu839684437/article/details/71600410
+文本摘要论文集：https://github.com/lipiji/app-dl
+
+17、sklearn中的特征提取（文本向量转化） http://d0evi1.com/sklearn/feature_extraction/
+
+18、LR正则化与数据先验分布的关系？ - 知乎  https://www.zhihu.com/question/23536142
