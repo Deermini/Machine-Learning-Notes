@@ -37,3 +37,4 @@ https://github.com/Deermini/vaegan
 goldkim92/StarGAN-tensorflow: Tensorflow implementation of StarGAN  
 https://github.com/goldkim92/StarGAN-tensorflow
 
+Self-Attention-GAN-Tensorflow: Simple Tensorflow implementation of "Self-Attention Generative Adversarial Networks" (SAGAN)  https://github.com/taki0112/Self-Attention-GAN-Tensorflow
