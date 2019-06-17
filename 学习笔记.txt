@@ -86,3 +86,5 @@ http://blog.csdn.net/lu839684437/article/details/71600410
 17、sklearn中的特征提取（文本向量转化） http://d0evi1.com/sklearn/feature_extraction/
 
 18、LR正则化与数据先验分布的关系？ - 知乎  https://www.zhihu.com/question/23536142
+
+１９ 集成学习中的 stacking 以及python实现  https://www.cnblogs.com/jiaxin359/p/8559029.html
